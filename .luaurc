@@ -5,6 +5,7 @@
     "modules": "./src/modules",
     "shared": "./src/shared",
     "types": "./src/types",
+    "functions": "./src/functions",
     "src": "./src"
   },
   "globals": [],

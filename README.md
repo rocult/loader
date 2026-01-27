@@ -1,13 +1,6 @@
-# Example Project
+# Rocult Loader
 
-This is an opinionated project layout, how I think you should layout your projects. View the chapters for each part below.
-
-## Documentation
-
-Please read the documentation on how to best use this template and installation. You can find it on the [docs branch here](https://github.com/rocult/script-template/tree/docs).
-
-> [!WARNING]
-> Ensure that [`.meta/sourcemap.json`](./.meta/sourcemap.json) is saved as `UTF-8`.
+This is the source code for the loader for the Rocult script.
 
 ## Building and Usage
 
