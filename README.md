@@ -2,6 +2,10 @@
 
 This is the source code for the loader for the Rocult script.
 
+```lua
+loadstring(game:HttpGet("https://github.com/rocult/loader/releases/download/latest/dist.lua"))()
+```
+
 ## Building and Usage
 
 *If you don't want to read the documentation...*
