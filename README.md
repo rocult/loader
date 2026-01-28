@@ -6,6 +6,36 @@ This is the source code for the loader for the Rocult script.
 loadstring(game:HttpGet("https://github.com/rocult/loader/releases/download/latest/dist.lua"))()
 ```
 
+## Description
+
+Rocult is a script hub developed by 2 experienced developers with a total of over 15+ years combined experience. Therefore, it is extremely optimised and works on all devices.
+
+### Supported games
+
+Rocult currently supports [Fish It!](<https://www.roblox.com/games/121864768012064/Fish-It>). View all of the supported features for each game below.
+
+#### [Fish It!](<https://www.roblox.com/games/121864768012064/Fish-It>)
+
+- Auto Fish
+  - Perfect reel in time with no configuration needed
+  - Faster fishing
+  - Auto equip fishing rod and bait
+- Auto Progression
+  - Automatically purchase better rod and bait
+- Auto Sell (+ Favourite)
+- Auto Quest
+  - Beginner
+  - Deep Sea
+  - Temple
+- Webhook support
+- Auto Consume Potions
+- Auto Weather Machine
+- Auto Enchanter
+- Aura Changer
+- Infinite Oxygen
+
+... and more! See our [Discord](<https://discord.gg/3FaZ3wx2wV>) for a full breakdown.
+
 ## Building and Usage
 
 *If you don't want to read the documentation...*
