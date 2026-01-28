@@ -11,7 +11,7 @@ local Label = require("@modules/Library/Window/Tab/Section/Elements/Label")
 lrmApi.SetScriptId(gameData.Url:split("/")[7]:sub(1, -5)) -- 7th index is the script id, -5 from the end to strip '.lua'
 
 local DISCORD_INVITE = "https://discord.gg/3FaZ3wx2wV"
-local LINKVERTISE_REWARDS_URL = "https://ads.luarmor.net/get_key?for=Rocult-OYCBxRfuZPAJ"
+local LINKVERTISE_REWARDS_URL = "https://getkey.rocu.lt"
 local KEY_PATH = "rocult_key.txt"
 
 -- Wait for the game to load
