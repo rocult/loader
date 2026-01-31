@@ -3,7 +3,7 @@
 This is the source code for the loader for the Rocult script.
 
 ```lua
-loadstring(game:HttpGet("https://github.com/rocult/loader/releases/download/latest/dist.lua"))()
+loadstring(game:HttpGet("https://github.com/rocult/loader/releases/latest/download/dist.lua"))()
 ```
 
 ## Description
@@ -34,7 +34,7 @@ Rocult currently supports [Fish It!](<https://www.roblox.com/games/1218647680120
 - Aura Changer
 - Infinite Oxygen
 
-... and more! See our [Discord](<https://discord.gg/3FaZ3wx2wV>) for a full breakdown.
+... and more! See our [Discord](<https://rocu.lt/discord>) for a full breakdown.
 
 ## Building and Usage
 
@@ -43,4 +43,4 @@ Rocult currently supports [Fish It!](<https://www.roblox.com/games/1218647680120
 1. Make sure you install [pesde](https://docs.pesde.dev/installation/) **exactly** how the [documentation describes here](https://docs.pesde.dev/installation/)
 2. Run `pesde install` while `cd` in this (root) directory
    1. \[Optional\] Reload Luau Language Server (`CTRL + P` and search for it)
-3. Run [build.ps1](./scripts/build.ps1), **from the root**
+3. Run [build.ps1](./build.ps1), **from the root**
