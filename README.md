@@ -3,7 +3,7 @@
 This is the source code for the loader for the Rocult script.
 
 ```lua
-loadstring(game:HttpGet("https://github.com/rocult/loader/releases/latest/download/dist.lua"))()
+loadstring(game:HttpGet("https://rocu.lt/loader"))()
 ```
 
 ## Description
